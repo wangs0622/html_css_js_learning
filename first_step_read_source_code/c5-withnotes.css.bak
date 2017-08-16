@@ -132,9 +132,7 @@ html 	{
 		overflow-x:hidden;
 		}
 
-		“HTML 标签的最小宽度是 1210px  背景颜色是：#fdfcf8 应该属于浅灰色。 
-		overflow-x:hidden 参考：http://www.w3school.com.cn/cssref/pr_overflow-x.asp  对超出范围的东西进行裁剪，是左右裁剪。
-		overflow: scroll 参考：http://www.w3school.com.cn/cssref/pr_pos_overflow.asp  如果可能会查出范围的话，则会添加滑动条，从而使可能使得全部的内容都容下。”
+		“HTML 标签的最小宽度是 1210px  背景颜色是：#fdfcf8 应该属于浅灰色。 ”
 
 body
 		{

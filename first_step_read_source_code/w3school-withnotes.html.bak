@@ -36,7 +36,7 @@
 
 		<div id="header_index">
 			<h1><a href="/index.html" title="w3school 在线教程" style="float:left;">w3school 在线教程</a></h1>
-				“在 <h1> 中，定义一个带超链接的文本，其文本内容是 'w3school 在线教程' 其指向的网页是 '/index.html' 这只是一个相对链接，绝对链接为：'www.w3school.com.cn/index.html' title 属性的作用是，当鼠标悬停在这个文本上的时候，会显示 title 里面的内容。 style 定义了一个内联样式。float:left 使得这个超链接文本向左浮动。 参考：http://www.w3school.com.cn/cssref/pr_class_float.asp ”
+			“在 <h1> 中，定义一个带超链接的文本，其文本内容是 'w3school 在线教程' 其指向的网页是 '/index.html' 这只是一个相对链接，绝对链接为：'www.w3school.com.cn/index.html' title 属性的作用是，当鼠标悬停在这个文本上的时候，会显示 title 里面的内容。 style 定义了一个内联样式。float:left 使得这个超链接文本向左浮动。 参考：http://www.w3school.com.cn/cssref/pr_class_float.asp ”
 
 			<div id="searchui">
 				<form method="get" id="searchform" action="http://www.google.com.hk/search">
@@ -44,22 +44,20 @@
 					<input type="text" name="as_q" class="box"  id="searched_content" title="在此输入搜索内容。" />
 					<input type="submit" value="Go" class="button" title="搜索！" />
 				</form>
-				“定义了一个表单，参考：http://www.w3school.com.cn/html/html_forms.asp”
 			</div>
 		</div>
 
-		<div id="navfirst">
-			“水平导航栏中的内容，具体如何变为水平的导航栏，样式规定在 c5.css 文件中。”
-			<ul id="menu">
-				<li id="h"><a href="/h.asp" title="HTML 系列教程">HTML 系列教程</a></li>
-				<li id="b"><a href="/b.asp" title="浏览器脚本教程">浏览器脚本</a></li>
-				<li id="s"><a href="/s.asp" title="服务器脚本教程">服务器脚本</a></li>
-				<li id="d"><a href="/d.asp" title="ASP.NET 教程">ASP.NET 教程</a></li>
-				<li id="x"><a href="/x.asp" title="XML 系列教程">XML 系列教程</a></li>
-				<li id="ws"><a href="/ws.asp" title="Web Services 系列教程">Web Services 系列教程</a></li>
-				<li id="w"><a href="/w.asp" title="建站手册">建站手册</a></li>
-			</ul>
-		</div>
+<div id="navfirst">
+<ul id="menu">
+<li id="h"><a href="/h.asp" title="HTML 系列教程">HTML 系列教程</a></li>
+<li id="b"><a href="/b.asp" title="浏览器脚本教程">浏览器脚本</a></li>
+<li id="s"><a href="/s.asp" title="服务器脚本教程">服务器脚本</a></li>
+<li id="d"><a href="/d.asp" title="ASP.NET 教程">ASP.NET 教程</a></li>
+<li id="x"><a href="/x.asp" title="XML 系列教程">XML 系列教程</a></li>
+<li id="ws"><a href="/ws.asp" title="Web Services 系列教程">Web Services 系列教程</a></li>
+<li id="w"><a href="/w.asp" title="建站手册">建站手册</a></li>
+</ul>
+</div>
 
 <div id="navsecond">
 <h2>HTML 教程</h2>
