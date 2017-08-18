@@ -1,6 +1,10 @@
 # Introduction
 
-After learning html and css from [http://www.w3school.com.cn/](http://www.w3school.com.cn/), I found it is not hard to understand those acknowledge. However I also found there is not an appropriate project to practise what I have learned.
+This is my study notebook about HTML & CSS & js.
+
+这是我的  HTML & CSS & js 学习笔记。
+
+After learning a little foudation about html and css from [http://www.w3school.com.cn/](http://www.w3school.com.cn/), I found it is not hard to understand those acknowledge. However I also found there is not an appropriate project to practise what I have learned.
 
 在 [http://www.w3school.com.cn/](http://www.w3school.com.cn/) 上学习了基本的 html 和 css 知识后，我发现其实不难掌握，但是知识点琐碎繁杂。网上找了找貌似也没有合适的项目来练手。
 
