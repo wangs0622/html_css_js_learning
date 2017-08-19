@@ -134,7 +134,7 @@ html 	{
 
 		“HTML 标签的最小宽度是 1210px  背景颜色是：#fdfcf8 应该属于浅灰色。 
 		overflow-x:hidden 参考：http://www.w3school.com.cn/cssref/pr_overflow-x.asp  对超出范围的东西进行裁剪，是左右裁剪。
-		overflow: scroll 参考：http://www.w3school.com.cn/cssref/pr_pos_overflow.asp  如果可能会查出范围的话，则会添加滑动条，从而使可能使得全部的内容都容下。”
+		overflow: scroll 参考：http://www.w3school.com.cn/cssref/pr_pos_overflow.asp  如果可能会超出范围的话，则会添加滑动条，从而使可能使得全部的内容都容下。”
 
 body
 		{
@@ -145,14 +145,20 @@ body
 		background: #fdfcf8;
 		}
 
+		text-align: center 文本居中 http://www.w3school.com.cn/cssref/pr_text_text-align.asp
+		margin: 0; 设置外边距为零 http://www.w3school.com.cn/css/css_margin.asp
+		padding: 0; 设置内边距为零 
+		border: 0;  不设置边框  http://www.w3school.com.cn/css/css_border.asp
+
+
 div#wrapper
 		{
-		margin: 0 auto;
-		padding: 0;
+		margin: 0 auto;  外边距 相当于上下外边为零  左右外边距自动，
+		padding: 0;    
 		border: 0;
 		width: 1239px;
-		text-align: left;
-		background: transparent url(/ui2017/wrapper.png) top left repeat-y;
+		text-align: left; 
+		background: transparent url(/ui2017/wrapper.png) top left repeat-y;   设置背景： http://www.w3school.com.cn/css/css_background.asp
 		}
 
 div#navsecond
