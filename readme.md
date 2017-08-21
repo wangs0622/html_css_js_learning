@@ -12,6 +12,19 @@ So I decide to create a mini-project, which can help me to master knowledge thro
 
 于是乎，我就想着自己搞一个小项目，专门来练手。 我想最好的练手方式莫过于阅读源代码。所以我就找了一个网站，下载它的源代码进行阅读，然后进行注释，从而加深我的理解。我阅读的网站代码是：[http://www.w3school.com.cn/](http://www.w3school.com.cn/)
 
-# First step: read html source code
+---
+
+# `first_step_read_source_code`
 
 website:[http://www.w3school.com.cn/](http://www.w3school.com.cn/)
+
+学习这个网站首页的 HTML 和 CSS 编码，通读注释。（读起来貌似挺无聊的）
+
+---
+
+# `second_jigsaw_puzzzle`
+
+使用 HTML CSS JavaScript 做一个简单的拼图游戏。
+
+---
+
