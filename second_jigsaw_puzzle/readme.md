@@ -12,7 +12,7 @@
 
 # 我的博客
 
-这个小游戏可以在我的博客里找到，我的博客地址是(http://www.wangs0622.com)[http://www.wangs0622.com]
+这个小游戏可以在我的博客里找到，我的博客地址是[http://www.wangs0622.com](http://www.wangs0622.com) 点击左侧的小游戏即可查看。
 
 # 注意
 
